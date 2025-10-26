@@ -46,12 +46,6 @@ Bachelor’s degree in Computer Science (5 years education)
 
 ---
 
-## 📊 GitHub Stats
-
-![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=duy098357\&show_icons=true\&theme=default)
-
----
-
 ### ✨ Next Steps
 
 1. Replace placeholder project links with your real repositories.
