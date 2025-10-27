@@ -38,14 +38,6 @@ Bachelor’s degree in Computer Science (5 years education)
 
 ---
 
-## 📫 Contact
-
-* GitHub: [duy098357](https://github.com/duy098357)
-* Email: `duy@example.com` (replace with your email)
-* LinkedIn: `linkedin.com/in/duy098357` (replace if needed)
-
----
-
 ### ✨ Next Steps
 
 1. Replace placeholder project links with your real repositories.
