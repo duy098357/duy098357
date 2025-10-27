@@ -139,8 +139,4 @@ Bachelor’s degree in Computer Science (5 years education)
 
 ---
 
-### ✨ Next Steps
 
-1. Replace placeholder project links with your real repositories.
-2. Add more details or achievements if you’d like.
-3. (Optional) Add dynamic GitHub activity or language stats cards.
